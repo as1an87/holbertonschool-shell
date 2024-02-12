@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/iamifile |  file /tmp/iamifile
+echo 'not empty anymore' >  /tmp/iamifile |  file /tmp/iamifile
