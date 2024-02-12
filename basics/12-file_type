@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/iamifile
+touch /tmp/iamifile |  file /tmp/iamifile
