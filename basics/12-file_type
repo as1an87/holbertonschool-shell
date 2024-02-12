@@ -1,2 +1,2 @@
 #!/bin/bash
-touch /tmp/iamafile |  type /tmp/iamifile
+touch /tmp/iamafile |  type -t  /tmp/iamifile
