@@ -1,0 +1,2 @@
+#!/bin/nash
+grep "root" -A 3 /etc/passwd
